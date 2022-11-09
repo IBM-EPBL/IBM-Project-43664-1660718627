@@ -2,7 +2,7 @@
 
 <h3>Smart Waste Management System For Metropolitan Cities</h3>
 
-<p>DOMAIN : INTERNET OF THINGS (IOT) </p> <br>
+<h1 style="font-size: 80px">DOMAIN : INTERNET OF THINGS (IOT) </h1> <br>
 <h1>BATCH NO : B9-3A5E </h1> <br>
 <h1>TEAM ID : PNT2022TMID17577 </h1> <br> <br>
 
